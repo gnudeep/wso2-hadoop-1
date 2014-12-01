@@ -27,7 +27,7 @@
         <relativePath>../hadoop-project</relativePath>
     </parent>
     <groupId>org.apache.hadoop.wso2</groupId>
-    <artifactId>hadoop-project</artifactId>
+    <artifactId>hadoop-all</artifactId>
     <packaging>bundle</packaging>
     <name>hadoop.wso2</name>
     <version>2.5.1.wso2v1</version>
